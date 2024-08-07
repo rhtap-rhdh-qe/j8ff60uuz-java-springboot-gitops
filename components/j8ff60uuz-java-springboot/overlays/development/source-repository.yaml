@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: j8ff60uuz-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/j8ff60uuz-java-springboot
